@@ -9,23 +9,24 @@ header {
   text-align: center;
   background-color: lightslategray;
   color: aliceblue;
-  border: solid rgb(104, 99, 99);}
+  }
 
 footer {
   background-color: lightslategray;
   text-align: center;
-  border: solid rgb(104, 99, 99);}
+  }
 
 #MenuBlock {
-  width: 15%;
+  width: 20%;
   background-color: lightslategray;
   color: aliceblue;
   margin-right: 10%;
-  border: solid rgb(104, 99, 99);}
-
-#ContactDetails {
-  color: aliceblue;}
+  ;}
 
 #ProfilePhoto {
   border-radius: 50%;
   border: 3px solid rgb(104, 99, 99);}
+
+#ContactDetails {
+  color: aliceblue;
+}
